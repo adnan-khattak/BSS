@@ -8,6 +8,7 @@ The objectives of this new system are to improve the submission of assignment. B
 ## How to install
 
 - Clone the repository with __git clone__ or download zip file
+  "git clone https://github.com/adnan-khattak/BSS.git"
 - Copy __.env.example__ file to __.env__ and edit database credentials there
 - Run __composer install__
 - Run __php artisan key:generate__
