@@ -1,0 +1,19 @@
+{
+    "subjects":[
+        {
+            "name": "Bahasa Melayu"
+        },
+        {
+            "name": "Bahasa Inggeris"
+        },
+        {
+            "name": "Matematik"
+        },
+        {
+            "name": "Sains"
+        },
+        {
+            "name": "Pendidikan Islam"
+        }
+    ]
+}

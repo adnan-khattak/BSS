@@ -1,0 +1,64 @@
+{
+    "classes":[
+        {
+            "name": "1 Alpha"
+        },
+        {
+            "name":"1 Beta"
+        },
+        {
+            "name":"1 Delta"
+        },
+        {
+            "name":"1 Gamma"
+        },
+        {
+            "name": "2 Alpha"
+        },
+        {
+            "name":"2 Beta"
+        },
+        {
+            "name":"2 Delta"
+        },
+        {
+            "name":"2 Gamma"
+        },
+        {
+            "name": "3 Alpha"
+        },
+        {
+            "name":"3 Beta"
+        },
+        {
+            "name":"3 Delta"
+        },
+        {
+            "name":"3 Gamma"
+        },
+        {
+            "name":"4 Sains Tulen"
+        },
+        {
+            "name":"4 Sains Kemanusiaan"
+        },
+        {
+            "name":"4 Sastera"
+        },
+        {
+            "name":"4 Grafik Berkomputer"
+        },
+        {
+            "name":"5 Sains Tulen"
+        },
+        {
+            "name":"5 Sains Kemanusiaan"
+        },
+        {
+            "name":"5 Sastera"
+        },
+        {
+            "name":"5 Grafik Berkomputer"
+        }
+    ]
+}
